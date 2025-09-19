@@ -1,0 +1,15 @@
+    h1{
+        color: rgba(45, 255, 3, 0.719);
+        background-color: rgba(18, 1, 255, 0.664);
+    }
+
+    body{
+        background-color: rgb(103, 99, 119);
+        color: rgb(17, 9, 9);
+    }
+
+    a{
+        background-color: aliceblue;background-color: rgba(3, 238, 15, 0.788);
+        color: rgb(14, 7, 7);
+
+    }
