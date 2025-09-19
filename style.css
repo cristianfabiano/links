@@ -6,7 +6,7 @@
     }
 
     body{
-        background-color: rgb(154, 153, 156);
+        background-color: rgb(4, 185, 4);
         color: bisque;
     }
 
@@ -16,5 +16,6 @@
         display: block;
         text-align: center;
         margin: 20px;
+        padding: 10px;
 
     }
