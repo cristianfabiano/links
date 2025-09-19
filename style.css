@@ -3,7 +3,6 @@
         background-color: rgba(4, 47, 235, 0.815);
         text-align: center;
         border-radius: 30px;
-        width: 100px;
     }
 
     body{
@@ -22,4 +21,7 @@
         margin: 20px;
         padding: 10px;
 
+    }
+    img{
+        width: 100%
     }
