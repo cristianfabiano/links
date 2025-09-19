@@ -8,17 +8,19 @@
     body{
         background-color: rgb(4, 185, 4);
         color: bisque;
+        display: block;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
 
     a{
         background-color: aliceblue;background-color: rgba(3, 47, 235, 0.815);
         color: rgb(255, 255, 255);
         display: block;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
         text-align: center;
         margin: 20px;
+        border-radius: 10%;
         padding: 10px;
 
     }
